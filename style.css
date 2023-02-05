@@ -4,7 +4,8 @@ html, body {
     width: 100%;
   }
   body{
-    background: url(./bg.png);
+/*     background: url(./bg.png); */
+      bgcolor=#3d3d3d;
     background-size: cover;
     background-position:center;
   }
