@@ -5,9 +5,9 @@ html, body {
   }
   body{
 /*     background: url(./bg.png); */
-      bgcolor:#3d3d3d;
-    background-size: cover;
-    background-position:center;
+      background-color:#3d3d3d;
+/*     background-size: cover;
+    background-position:center; */
   }
   h1{
     position: relative;
